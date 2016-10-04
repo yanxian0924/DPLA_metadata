@@ -1,0 +1,3 @@
+CP_REMOTE = True
+API_KEY = '31fba900a3ceca3f12c195d93afb680c'
+# ES_RETURN_FIELDS = '*'
