@@ -1,5 +1,5 @@
 # DPLA metadata
-This project is for INF 385T at the iSchool at the University of Texas at Austin.
+This project is for INF 385T at the [iSchool](https://www.ischool.utexas.edu/) at the University of Texas at Austin.
 
 ## Project Goals
 This project aims to use metadata available from the Digital Public Library of America to create profiles of the holdings of each individual institution that contributes to the DPLA.
