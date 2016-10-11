@@ -13,9 +13,9 @@ import logging
 
 import operator
 import requests
-import pymongo
-import pandas
-import matplotlib.pyplot as plt
+# import pymongo
+# import pandas
+# import matplotlib.pyplot as plt
 # elasticsearch import commented by unmil on 2/21/2016. This will cause the local functions to malfunction at best.
 #from elasticsearch import Elasticsearch
 
