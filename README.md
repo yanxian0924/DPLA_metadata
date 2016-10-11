@@ -7,6 +7,7 @@ This project aims to use metadata available from the Digital Public Library of A
 ## Data Schema
 We use a subset of the metadata available in the DPLA's MAP (Metadata Application Profile).  Specifically, we use a number of properties from the source.Resource namespace (?).
 
+```
 {
   "dataProviderName": "",
   "itemCount": 500,
@@ -83,17 +84,17 @@ We use a subset of the metadata available in the DPLA's MAP (Metadata Applicatio
     "value":[]
   }
 }
-
+```
 ## Interface and Syntax
 The program is written in Python and accessed through a command line interface.  The basic syntax, when finished, should be something like this:
 
 [dataProviderName] [metadata fields to query] [things to count]
 
-## Interface completed:
- * Retrieves sourceResource data from the DPLA according to a specific data provider as input
+## Interface completed
+Retrieves sourceResource data from the DPLA according to a specific data provider as input
 
  python3 dpla_dataProvider.py [-n <dataProvider name>] [-f <filename>]
-
+ 
  Default output filename is dpla-dataProvider-data.json.
 
 Example:
