@@ -7,7 +7,66 @@ collProfile files have the following structure:
 ```
 object		{4}
 	collection		{4}
+		title
+		@id 
+		id  
+		description
 	collMetadataDetail		{5}
+	itemCount   
+        dateProfiled
+        Sourc
+        collectionVolume        {25}
+            creator 
+            rightsHolder    
+            relation    
+            displayDate 
+            contributor 
+            alternative 
+            dataProvider    
+            subject 
+		    title   
+		    temporal    
+		    provider    
+		    type    
+		    description 
+		    format  
+		    collection  
+		    spatialCoords   
+		    replacedBy  
+		    extent  
+		    genre   
+		    publisher   
+		    replaces    
+		    language    
+		    rights  
+		    spatialName 
+		    identifier  
+		collectionUsage     {25}
+		    creator 
+		    rightsHolder    
+		    relation    
+		    displayDate 
+		    contributor 
+		    alternative 
+		    dataProvider    
+		    subject 
+		    title   
+		    temporal    
+		    provider    
+		    type    
+		    description 
+		    format  
+		    collection  
+		    spatialCoords   
+		    replacedBy  
+		    extent  
+		    genre   
+		    publisher   
+		    replaces    
+		    language    
+		    rights  
+		    spatialName 
+		    identifier 
 	duplicated_item
 	itemDetail		[count of items]
 		item1		{2}
