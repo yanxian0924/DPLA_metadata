@@ -1,7 +1,8 @@
 # What is this?
 
 These profiles are from the project work done in Fall 2015.  We're not sure what all we can use it for.
-collprofile files have the following strucutre:
+collprofile files have the following structure:
+```
 object		{4}
 	collection		{4}
 	collMetadataDetail		{5}
@@ -35,3 +36,4 @@ object		{4}
 					identifier	
 					type	
 					replacedBy	
+```
