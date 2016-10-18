@@ -2,6 +2,7 @@
 
 These profiles are from the project work done in Fall 2015.  We're not sure what all we can use it for.
 
+## collProfile Files
 collProfile files have the following structure:
 ```
 object		{4}
@@ -38,7 +39,7 @@ object		{4}
 					type	
 					replacedBy	
 ```
-
+## collectionData Files
 collectionData files have the following structure:
 
 ```
