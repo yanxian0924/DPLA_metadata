@@ -416,5 +416,5 @@ dpla_data_output_filename = FILENAME_dpla_data_output
 if args.filename:
    dpla_data_output_filename = args.filename
 
-#call the profiler and let it do its magic
+#call the profiler and let it do its magic.
 profile_dpla(dpla_data_output_filename)
