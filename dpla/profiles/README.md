@@ -2,6 +2,10 @@
 
 These profiles are from the project work done in Fall 2015.  We're not sure what all we can use it for.
 
+-collProfile files contain data about all items in a Collection. (?)  These are the big files.
+
+-collectionData files contain statistics about a Collection. (?)  These are the small files.
+
 ## collProfile Files
 collProfile files have the following structure:
 ```
