@@ -6,6 +6,8 @@ These profiles are from the project work done in Fall 2015.  We're not sure what
 
 -collectionData files contain statistics about a Collection.  These are the small files.
 
+-provderInfo (sic) files contain information about how many dataProviders contribute to a Provider.  These are tiny files.
+
 ## collProfile Files
 collProfile files have the following structure:
 ```
